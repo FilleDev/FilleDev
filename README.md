@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm a passionate software developer from Sweden, currently in the final phase of my Master's studies with a focus on software engineering, game development, and agile methodologies.
+I'm a passionate software developer from Sweden with a Master's degree in Software Engineering, specializing in software engineering, game development, and agile methodologies.
 
 I volunteer as a developer for Sweden’s largest Minecraft server, [90gQopen](https://90gqopen.se), contributing to projects driven by passion and community.
 
